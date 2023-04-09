@@ -4,7 +4,7 @@ void main() {
   runApp(MaterialApp(
     home: Scaffold(
       appBar: AppBar(
-        title: const Text('I AM RICH'),
+        title: const Text('I HAVE GRADUATED'),
         backgroundColor: Colors.blueGrey[900],
       ),
       backgroundColor: Colors.blueGrey,
